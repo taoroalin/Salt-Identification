@@ -4,7 +4,7 @@ I competed in the TGS Salt Identification challenge by building a data pipeline 
 
 My pipeline normalizes the seismic images, augments them, and then maps them images of salt using deep learning. Here are some results.
 
-![Results](https://github.com/taoroalin/Salt-Identification/blob/master/results/pytorch-enet%20results.png?raw=true)
+![Results](https://github.com/taoroalin/Salt-Identification/blob/master/pytorch-enet%20results.png?raw=true)
 
 Here's what the competition's about:
 
